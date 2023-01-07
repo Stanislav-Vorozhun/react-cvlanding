@@ -14,7 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__discription">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, fugit dolor. Aliquam officia facere amet eum. Numquam aliquid quisquam eaque.
+          I am 25 years old.  I like everything related to computers: building computers, programming, computer games. I can't imagine myself without technologys and my cat Winston
           </p>
           <a download="" href={CV} className="button button--flex">Download CV
             <svg
