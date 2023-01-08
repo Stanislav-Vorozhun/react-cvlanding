@@ -11,16 +11,7 @@ const Frontend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">HTML/CSS</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Typescript</h3>
+              <h3 className="skills__name">RWD/AWD</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
@@ -29,8 +20,17 @@ const Frontend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">JS</h3>
-              <span className="skills__level">Advanced</span>
+              <h3 className="skills__name">Bootstrap</h3>
+              <span className="skills__level">Regular</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Tailwindcss</h3>
+              <span className="skills__level">Regular</span>
             </div>
           </div>
 
@@ -41,17 +41,8 @@ const Frontend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Bootstrap 5</h3>
-              <span className="skills__level">Advanced</span>
-            </div>
-          </div>
-
-          <div className="skills__data">
-            <i className="bx bx-badge-check"></i>
-
-            <div>
               <h3 className="skills__name">React</h3>
-              <span className="skills__level">Advanced</span>
+              <span className="skills__level">Regular</span>
             </div>
           </div>
 
@@ -59,8 +50,17 @@ const Frontend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Tailwindcss</h3>
-              <span className="skills__level">Advanced</span>
+              <h3 className="skills__name">JS</h3>
+              <span className="skills__level">Regular</span>
+            </div>
+          </div>
+
+          <div className="skills__data">
+            <i className="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">TypeScript</h3>
+              <span className="skills__level">Regular</span>
             </div>
           </div>
 
