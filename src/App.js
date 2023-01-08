@@ -10,6 +10,7 @@ import Certificates from './components/slider/Certificates';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollUp/ScrollUp';
+import Work from './components/work/Work';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Qualification />
         <Services />
         <Certificates />
+        <Work />
         <Contact />
       </main>
 
