@@ -5,8 +5,13 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Stas</h1>
+        <h1 className="footer__title">Happy End 
+        
+        </h1>
         <ul className="footer__list">
+          <li>
+            <a href="#home" className="footer__link">Home</a>
+          </li>
           <li>
             <a href="#about" className="footer__link">About</a>
           </li>
@@ -14,7 +19,10 @@ const Footer = () => {
             <a href="#skills" className="footer__link">Skills</a>
           </li>
           <li>
-            <a href="#services" className="footer__link">Services</a>
+            <a href="#portfolio" className="footer__link">Portfolio</a>
+          </li>
+          <li>
+            <a href="#contact" className="footer__link">Contact</a>
           </li>
         </ul>
         <div className="footer__social">
@@ -29,7 +37,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy">Stas Vorozhun</span>
+        <span className="footer__copy">Stas Vorozhun. 2023</span>
       </div>
     </footer>
   )

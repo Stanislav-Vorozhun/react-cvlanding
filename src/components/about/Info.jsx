@@ -12,13 +12,19 @@ const Info = () => {
       <div className="about__box">
         <i className="bx bx-briefcase-alt about__icon"></i>
         <h3 className="about__title">Completed</h3>
-        <span className="about__subtitle">10+ Projects</span>
+        <span className="about__subtitle">5+ Projects</span>
       </div>
 
       <div className="about__box">
-        <i className="bx bx-support about__icon"></i>
-        <h3 className="about__title">Job search</h3>
-        <span className="about__subtitle">Active</span>
+        <i className="bx bx-user-voice about__icon"></i>
+        <h3 className="about__title">English</h3>
+        <span className="about__subtitle">B2</span>
+      </div>
+
+      <div className="about__box">
+        <i className="bx bx-user-voice about__icon"></i>
+        <h3 className="about__title">Polish</h3>
+        <span className="about__subtitle">B1</span>
       </div>
     </div>
   )

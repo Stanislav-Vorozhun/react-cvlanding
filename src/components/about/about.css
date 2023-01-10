@@ -11,7 +11,7 @@
 }
 
 .about__info {
-  grid-template-columns: repeat(3, 140px);
+  grid-template-columns: repeat(4, 120px);
   gap: 0.5rem;
   margin-bottom: var(--mb-2);
 }
@@ -42,7 +42,6 @@
 }
 
 .about__discription {
-  padding: 0 4rem 0 0;
   margin-bottom: var(--mb-2-5);
 }
 
@@ -55,7 +54,7 @@
   }
 
   .about__img {
-    width: 220px;
+    width: 285px;
   }
 
   .about__box {
@@ -79,7 +78,7 @@
 /* medium dev*/
 @media screen and (max-width: 576px) {
   .about__info {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .about__discription {
