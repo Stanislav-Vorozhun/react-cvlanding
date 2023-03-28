@@ -19,7 +19,8 @@ const Qualification = () => {
             <i className="uil uil-graduation-cap qualification__icon"></i>{" "} Education
           </div>
 
-          <div className={toggleState === 2 ? "qualification__button  qualification__active button--flex" : "qualification__button button--flex"} onClick={() => toggleTab(2)}>
+          <div className={toggleState === 2 ? "qualification__button  qualification__active button--flex" : "qualification__button button--flex"}
+           onClick={() => toggleTab(2)}>
             <i className="uil uil-briefcase-alt qualification__icon"></i>{" "} Experience
           </div>
         </div>
@@ -79,10 +80,10 @@ const Qualification = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Pets projects</h3>
-                <span className="qualification__subtitle">Belarus/Poland</span>
+                <h3 className="qualification__title">Front-end Developer</h3>
+                <span className="qualification__subtitle">ASBIS Belarus</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>2022 - Present
+                  <i className="uil uil-calendar-alt"></i>2021 - 2022
                 </div>
               </div>
 
@@ -92,7 +93,60 @@ const Qualification = () => {
               </div>
             </div>
 
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">Trainee</h3>
+                <span className="qualification__subtitle">IT Academy</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i>2020 - 2021
+                </div>
+              </div>
+
+
+            </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Programmer Technician</h3>
+                <span className="qualification__subtitle">A1 Belarus</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i>2016 - 2017
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
           </div>
+
+          {/* <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Pets projects</h3>
+                <span className="qualification__subtitle">Belarus/Poland</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i>2022 - Present
+                </div>
+              </div>
+              
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+
+            
+
+          </div> */}
         </div>
       </div>
     </section>
