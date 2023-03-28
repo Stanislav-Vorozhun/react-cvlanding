@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from "../../assets/ava-min.webp";
+import AboutImg from "../../assets/ava2.webp";
 import CV from "../../assets/Profile.pdf";
 import Info from './Info';
 
