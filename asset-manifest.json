@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/react-cvlanding/static/css/main.37a30fdd.css",
-    "main.js": "/react-cvlanding/static/js/main.11fc9ecd.js",
+    "main.js": "/react-cvlanding/static/js/main.91b6d227.js",
     "static/media/work4.webp": "/react-cvlanding/static/media/work4.a08049f3ae952027db4a.webp",
     "static/media/ava-min.webp": "/react-cvlanding/static/media/ava-min.56ef4a6c7f924717f81c.webp",
     "static/media/work5.webp": "/react-cvlanding/static/media/work5.63be59bd79cb122dd019.webp",
     "static/media/work2.webp": "/react-cvlanding/static/media/work2.52ba4f93e757c8d60675.webp",
     "static/media/work3.webp": "/react-cvlanding/static/media/work3.d5dcc31c7869a72d4b4e.webp",
     "static/media/work1.webp": "/react-cvlanding/static/media/work1.f45600f5a9820f95f216.webp",
-    "static/media/Stas Vorozhun CV-ENG.pdf": "/react-cvlanding/static/media/Stas Vorozhun CV-ENG.f2b1c28c9a1fb46fa056.pdf",
+    "static/media/Profile.pdf": "/react-cvlanding/static/media/Profile.ee6f5f15b70744fdd35c.pdf",
+    "static/media/ava2.webp": "/react-cvlanding/static/media/ava2.57ecb050a3a854b46e2d.webp",
     "index.html": "/react-cvlanding/index.html",
     "main.37a30fdd.css.map": "/react-cvlanding/static/css/main.37a30fdd.css.map",
-    "main.11fc9ecd.js.map": "/react-cvlanding/static/js/main.11fc9ecd.js.map"
+    "main.91b6d227.js.map": "/react-cvlanding/static/js/main.91b6d227.js.map"
   },
   "entrypoints": [
     "static/css/main.37a30fdd.css",
-    "static/js/main.11fc9ecd.js"
+    "static/js/main.91b6d227.js"
   ]
 }
